@@ -1,0 +1,7 @@
+Adressbok
+---------
+void List
+void Sort
+bool AddEntry
+void OverwriteEntry
+void DeleteEntry
